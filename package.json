@@ -1,0 +1,24 @@
+{
+  "name": "btt-moonraker-tft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chibisuke/BTT-Moonraker-TFT.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/chibisuke/BTT-Moonraker-TFT/issues"
+  },
+  "homepage": "https://github.com/chibisuke/BTT-Moonraker-TFT#readme",
+  "dependencies": {
+    "@serialport/stream": "^9.2.4",
+    "rxjs": "^7.5.1",
+    "serialport": "^9.2.8"
+  }
+}
